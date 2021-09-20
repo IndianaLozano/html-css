@@ -4,6 +4,8 @@
 
 - Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+- Tipografias: https://fonts.google.com/
+
 - Recursos confiables:
   - MDN (Mozilla developer network): https://developer.mozilla.org/es/
   - W3 Schools: https://www.w3schools.com/
